@@ -1,0 +1,11 @@
+D:\OneDrive\Desktop\C#\Section2\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+D:\OneDrive\Desktop\C#\Section2\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+D:\OneDrive\Desktop\C#\Section2\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+D:\OneDrive\Desktop\C#\Section2\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+D:\OneDrive\Desktop\C#\Section2\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+D:\OneDrive\Desktop\C#\Section2\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+D:\OneDrive\Desktop\C#\Section2\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+D:\OneDrive\Desktop\C#\Section2\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+D:\OneDrive\Desktop\C#\Section2\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+D:\OneDrive\Desktop\C#\Section2\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+D:\OneDrive\Desktop\C#\Section2\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
