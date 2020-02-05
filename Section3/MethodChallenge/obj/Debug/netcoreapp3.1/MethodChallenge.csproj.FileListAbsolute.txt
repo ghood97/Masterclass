@@ -1,0 +1,10 @@
+D:\OneDrive\Desktop\C#\Masterclass\Section3\MethodChallenge\bin\Debug\netcoreapp3.1\MethodChallenge.exe
+D:\OneDrive\Desktop\C#\Masterclass\Section3\MethodChallenge\bin\Debug\netcoreapp3.1\MethodChallenge.deps.json
+D:\OneDrive\Desktop\C#\Masterclass\Section3\MethodChallenge\bin\Debug\netcoreapp3.1\MethodChallenge.runtimeconfig.json
+D:\OneDrive\Desktop\C#\Masterclass\Section3\MethodChallenge\bin\Debug\netcoreapp3.1\MethodChallenge.runtimeconfig.dev.json
+D:\OneDrive\Desktop\C#\Masterclass\Section3\MethodChallenge\bin\Debug\netcoreapp3.1\MethodChallenge.dll
+D:\OneDrive\Desktop\C#\Masterclass\Section3\MethodChallenge\bin\Debug\netcoreapp3.1\MethodChallenge.pdb
+D:\OneDrive\Desktop\C#\Masterclass\Section3\MethodChallenge\obj\Debug\netcoreapp3.1\MethodChallenge.AssemblyInfoInputs.cache
+D:\OneDrive\Desktop\C#\Masterclass\Section3\MethodChallenge\obj\Debug\netcoreapp3.1\MethodChallenge.AssemblyInfo.cs
+D:\OneDrive\Desktop\C#\Masterclass\Section3\MethodChallenge\obj\Debug\netcoreapp3.1\MethodChallenge.dll
+D:\OneDrive\Desktop\C#\Masterclass\Section3\MethodChallenge\obj\Debug\netcoreapp3.1\MethodChallenge.pdb

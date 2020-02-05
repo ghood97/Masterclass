@@ -1,0 +1,11 @@
+D:\OneDrive\Desktop\C#\Masterclass\Section3\Methods\bin\Debug\netcoreapp3.1\Methods.exe
+D:\OneDrive\Desktop\C#\Masterclass\Section3\Methods\bin\Debug\netcoreapp3.1\Methods.deps.json
+D:\OneDrive\Desktop\C#\Masterclass\Section3\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.json
+D:\OneDrive\Desktop\C#\Masterclass\Section3\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.dev.json
+D:\OneDrive\Desktop\C#\Masterclass\Section3\Methods\bin\Debug\netcoreapp3.1\Methods.dll
+D:\OneDrive\Desktop\C#\Masterclass\Section3\Methods\bin\Debug\netcoreapp3.1\Methods.pdb
+D:\OneDrive\Desktop\C#\Masterclass\Section3\Methods\obj\Debug\netcoreapp3.1\Methods.csprojAssemblyReference.cache
+D:\OneDrive\Desktop\C#\Masterclass\Section3\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfoInputs.cache
+D:\OneDrive\Desktop\C#\Masterclass\Section3\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfo.cs
+D:\OneDrive\Desktop\C#\Masterclass\Section3\Methods\obj\Debug\netcoreapp3.1\Methods.dll
+D:\OneDrive\Desktop\C#\Masterclass\Section3\Methods\obj\Debug\netcoreapp3.1\Methods.pdb

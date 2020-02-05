@@ -1,0 +1,10 @@
+D:\OneDrive\Desktop\C#\Masterclass\Section3\TryCatchFinally\bin\Debug\netcoreapp3.1\TryCatchFinally.exe
+D:\OneDrive\Desktop\C#\Masterclass\Section3\TryCatchFinally\bin\Debug\netcoreapp3.1\TryCatchFinally.deps.json
+D:\OneDrive\Desktop\C#\Masterclass\Section3\TryCatchFinally\bin\Debug\netcoreapp3.1\TryCatchFinally.runtimeconfig.json
+D:\OneDrive\Desktop\C#\Masterclass\Section3\TryCatchFinally\bin\Debug\netcoreapp3.1\TryCatchFinally.runtimeconfig.dev.json
+D:\OneDrive\Desktop\C#\Masterclass\Section3\TryCatchFinally\bin\Debug\netcoreapp3.1\TryCatchFinally.dll
+D:\OneDrive\Desktop\C#\Masterclass\Section3\TryCatchFinally\bin\Debug\netcoreapp3.1\TryCatchFinally.pdb
+D:\OneDrive\Desktop\C#\Masterclass\Section3\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.AssemblyInfoInputs.cache
+D:\OneDrive\Desktop\C#\Masterclass\Section3\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.AssemblyInfo.cs
+D:\OneDrive\Desktop\C#\Masterclass\Section3\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.dll
+D:\OneDrive\Desktop\C#\Masterclass\Section3\TryCatchFinally\obj\Debug\netcoreapp3.1\TryCatchFinally.pdb

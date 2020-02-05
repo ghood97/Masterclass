@@ -1,0 +1,11 @@
+D:\OneDrive\Desktop\C#\Masterclass\Section3\UserInput\bin\Debug\netcoreapp3.1\UserInput.exe
+D:\OneDrive\Desktop\C#\Masterclass\Section3\UserInput\bin\Debug\netcoreapp3.1\UserInput.deps.json
+D:\OneDrive\Desktop\C#\Masterclass\Section3\UserInput\bin\Debug\netcoreapp3.1\UserInput.runtimeconfig.json
+D:\OneDrive\Desktop\C#\Masterclass\Section3\UserInput\bin\Debug\netcoreapp3.1\UserInput.runtimeconfig.dev.json
+D:\OneDrive\Desktop\C#\Masterclass\Section3\UserInput\bin\Debug\netcoreapp3.1\UserInput.dll
+D:\OneDrive\Desktop\C#\Masterclass\Section3\UserInput\bin\Debug\netcoreapp3.1\UserInput.pdb
+D:\OneDrive\Desktop\C#\Masterclass\Section3\UserInput\obj\Debug\netcoreapp3.1\UserInput.csprojAssemblyReference.cache
+D:\OneDrive\Desktop\C#\Masterclass\Section3\UserInput\obj\Debug\netcoreapp3.1\UserInput.AssemblyInfoInputs.cache
+D:\OneDrive\Desktop\C#\Masterclass\Section3\UserInput\obj\Debug\netcoreapp3.1\UserInput.AssemblyInfo.cs
+D:\OneDrive\Desktop\C#\Masterclass\Section3\UserInput\obj\Debug\netcoreapp3.1\UserInput.dll
+D:\OneDrive\Desktop\C#\Masterclass\Section3\UserInput\obj\Debug\netcoreapp3.1\UserInput.pdb
