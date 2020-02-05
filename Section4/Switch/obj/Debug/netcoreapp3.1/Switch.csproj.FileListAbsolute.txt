@@ -1,0 +1,11 @@
+D:\OneDrive\Desktop\C#\Masterclass\Section4\Switch\obj\Debug\netcoreapp3.1\Switch.csprojAssemblyReference.cache
+D:\OneDrive\Desktop\C#\Masterclass\Section4\Switch\obj\Debug\netcoreapp3.1\Switch.AssemblyInfoInputs.cache
+D:\OneDrive\Desktop\C#\Masterclass\Section4\Switch\obj\Debug\netcoreapp3.1\Switch.AssemblyInfo.cs
+D:\OneDrive\Desktop\C#\Masterclass\Section4\Switch\bin\Debug\netcoreapp3.1\Switch.exe
+D:\OneDrive\Desktop\C#\Masterclass\Section4\Switch\bin\Debug\netcoreapp3.1\Switch.deps.json
+D:\OneDrive\Desktop\C#\Masterclass\Section4\Switch\bin\Debug\netcoreapp3.1\Switch.runtimeconfig.json
+D:\OneDrive\Desktop\C#\Masterclass\Section4\Switch\bin\Debug\netcoreapp3.1\Switch.runtimeconfig.dev.json
+D:\OneDrive\Desktop\C#\Masterclass\Section4\Switch\bin\Debug\netcoreapp3.1\Switch.dll
+D:\OneDrive\Desktop\C#\Masterclass\Section4\Switch\bin\Debug\netcoreapp3.1\Switch.pdb
+D:\OneDrive\Desktop\C#\Masterclass\Section4\Switch\obj\Debug\netcoreapp3.1\Switch.dll
+D:\OneDrive\Desktop\C#\Masterclass\Section4\Switch\obj\Debug\netcoreapp3.1\Switch.pdb

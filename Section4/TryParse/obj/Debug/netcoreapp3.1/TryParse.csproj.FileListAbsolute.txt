@@ -1,0 +1,11 @@
+D:\OneDrive\Desktop\C#\Masterclass\Section4\TryParse\bin\Debug\netcoreapp3.1\TryParse.exe
+D:\OneDrive\Desktop\C#\Masterclass\Section4\TryParse\bin\Debug\netcoreapp3.1\TryParse.deps.json
+D:\OneDrive\Desktop\C#\Masterclass\Section4\TryParse\bin\Debug\netcoreapp3.1\TryParse.runtimeconfig.json
+D:\OneDrive\Desktop\C#\Masterclass\Section4\TryParse\bin\Debug\netcoreapp3.1\TryParse.runtimeconfig.dev.json
+D:\OneDrive\Desktop\C#\Masterclass\Section4\TryParse\bin\Debug\netcoreapp3.1\TryParse.dll
+D:\OneDrive\Desktop\C#\Masterclass\Section4\TryParse\bin\Debug\netcoreapp3.1\TryParse.pdb
+D:\OneDrive\Desktop\C#\Masterclass\Section4\TryParse\obj\Debug\netcoreapp3.1\TryParse.csprojAssemblyReference.cache
+D:\OneDrive\Desktop\C#\Masterclass\Section4\TryParse\obj\Debug\netcoreapp3.1\TryParse.AssemblyInfoInputs.cache
+D:\OneDrive\Desktop\C#\Masterclass\Section4\TryParse\obj\Debug\netcoreapp3.1\TryParse.AssemblyInfo.cs
+D:\OneDrive\Desktop\C#\Masterclass\Section4\TryParse\obj\Debug\netcoreapp3.1\TryParse.dll
+D:\OneDrive\Desktop\C#\Masterclass\Section4\TryParse\obj\Debug\netcoreapp3.1\TryParse.pdb

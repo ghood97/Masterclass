@@ -1,0 +1,11 @@
+D:\OneDrive\Desktop\C#\Masterclass\Section4\NestedIf\bin\Debug\netcoreapp3.1\NestedIf.exe
+D:\OneDrive\Desktop\C#\Masterclass\Section4\NestedIf\bin\Debug\netcoreapp3.1\NestedIf.deps.json
+D:\OneDrive\Desktop\C#\Masterclass\Section4\NestedIf\bin\Debug\netcoreapp3.1\NestedIf.runtimeconfig.json
+D:\OneDrive\Desktop\C#\Masterclass\Section4\NestedIf\bin\Debug\netcoreapp3.1\NestedIf.runtimeconfig.dev.json
+D:\OneDrive\Desktop\C#\Masterclass\Section4\NestedIf\bin\Debug\netcoreapp3.1\NestedIf.dll
+D:\OneDrive\Desktop\C#\Masterclass\Section4\NestedIf\bin\Debug\netcoreapp3.1\NestedIf.pdb
+D:\OneDrive\Desktop\C#\Masterclass\Section4\NestedIf\obj\Debug\netcoreapp3.1\NestedIf.csprojAssemblyReference.cache
+D:\OneDrive\Desktop\C#\Masterclass\Section4\NestedIf\obj\Debug\netcoreapp3.1\NestedIf.AssemblyInfoInputs.cache
+D:\OneDrive\Desktop\C#\Masterclass\Section4\NestedIf\obj\Debug\netcoreapp3.1\NestedIf.AssemblyInfo.cs
+D:\OneDrive\Desktop\C#\Masterclass\Section4\NestedIf\obj\Debug\netcoreapp3.1\NestedIf.dll
+D:\OneDrive\Desktop\C#\Masterclass\Section4\NestedIf\obj\Debug\netcoreapp3.1\NestedIf.pdb
