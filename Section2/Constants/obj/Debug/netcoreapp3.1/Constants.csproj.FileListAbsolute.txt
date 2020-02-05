@@ -1,0 +1,11 @@
+D:\OneDrive\Desktop\C#\Masterclass\Section2\Constants\obj\Debug\netcoreapp3.1\Constants.csprojAssemblyReference.cache
+D:\OneDrive\Desktop\C#\Masterclass\Section2\Constants\obj\Debug\netcoreapp3.1\Constants.AssemblyInfoInputs.cache
+D:\OneDrive\Desktop\C#\Masterclass\Section2\Constants\obj\Debug\netcoreapp3.1\Constants.AssemblyInfo.cs
+D:\OneDrive\Desktop\C#\Masterclass\Section2\Constants\bin\Debug\netcoreapp3.1\Constants.exe
+D:\OneDrive\Desktop\C#\Masterclass\Section2\Constants\bin\Debug\netcoreapp3.1\Constants.deps.json
+D:\OneDrive\Desktop\C#\Masterclass\Section2\Constants\bin\Debug\netcoreapp3.1\Constants.runtimeconfig.json
+D:\OneDrive\Desktop\C#\Masterclass\Section2\Constants\bin\Debug\netcoreapp3.1\Constants.runtimeconfig.dev.json
+D:\OneDrive\Desktop\C#\Masterclass\Section2\Constants\bin\Debug\netcoreapp3.1\Constants.dll
+D:\OneDrive\Desktop\C#\Masterclass\Section2\Constants\bin\Debug\netcoreapp3.1\Constants.pdb
+D:\OneDrive\Desktop\C#\Masterclass\Section2\Constants\obj\Debug\netcoreapp3.1\Constants.dll
+D:\OneDrive\Desktop\C#\Masterclass\Section2\Constants\obj\Debug\netcoreapp3.1\Constants.pdb

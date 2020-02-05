@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OneDrive\\Desktop\\C#\\Section2\\HelloWorld\\HelloWorld.csproj": {}
+    "D:\\OneDrive\\Desktop\\C#\\Masterclass\\Section2\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "D:\\OneDrive\\Desktop\\C#\\Section2\\HelloWorld\\HelloWorld.csproj": {
+    "D:\\OneDrive\\Desktop\\C#\\Masterclass\\Section2\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OneDrive\\Desktop\\C#\\Section2\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "D:\\OneDrive\\Desktop\\C#\\Masterclass\\Section2\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "D:\\OneDrive\\Desktop\\C#\\Section2\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "D:\\OneDrive\\Desktop\\C#\\Masterclass\\Section2\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\griff\\.nuget\\packages\\",
-        "outputPath": "D:\\OneDrive\\Desktop\\C#\\Section2\\HelloWorld\\obj\\",
+        "outputPath": "D:\\OneDrive\\Desktop\\C#\\Masterclass\\Section2\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\griff\\AppData\\Roaming\\NuGet\\NuGet.Config",

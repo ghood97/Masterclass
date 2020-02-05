@@ -1,0 +1,10 @@
+D:\OneDrive\Desktop\C#\Masterclass\Section2\Casting\bin\Debug\netcoreapp3.1\Casting.exe
+D:\OneDrive\Desktop\C#\Masterclass\Section2\Casting\bin\Debug\netcoreapp3.1\Casting.deps.json
+D:\OneDrive\Desktop\C#\Masterclass\Section2\Casting\bin\Debug\netcoreapp3.1\Casting.runtimeconfig.json
+D:\OneDrive\Desktop\C#\Masterclass\Section2\Casting\bin\Debug\netcoreapp3.1\Casting.runtimeconfig.dev.json
+D:\OneDrive\Desktop\C#\Masterclass\Section2\Casting\bin\Debug\netcoreapp3.1\Casting.dll
+D:\OneDrive\Desktop\C#\Masterclass\Section2\Casting\bin\Debug\netcoreapp3.1\Casting.pdb
+D:\OneDrive\Desktop\C#\Masterclass\Section2\Casting\obj\Debug\netcoreapp3.1\Casting.AssemblyInfoInputs.cache
+D:\OneDrive\Desktop\C#\Masterclass\Section2\Casting\obj\Debug\netcoreapp3.1\Casting.AssemblyInfo.cs
+D:\OneDrive\Desktop\C#\Masterclass\Section2\Casting\obj\Debug\netcoreapp3.1\Casting.dll
+D:\OneDrive\Desktop\C#\Masterclass\Section2\Casting\obj\Debug\netcoreapp3.1\Casting.pdb
