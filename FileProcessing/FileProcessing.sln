@@ -3,9 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WritingDataToFile", "WritingDataToFile\WritingDataToFile.csproj", "{42EB82FB-883A-4E99-B4D7-C194F2F5B881}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WritingDataToFile", "WritingDataToFile\WritingDataToFile.csproj", "{42EB82FB-883A-4E99-B4D7-C194F2F5B881}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadFromAFile", "ReadFromAFile\ReadFromAFile.csproj", "{7AEC507D-34D7-403C-BD7C-57BE88F72917}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReadFromAFile", "ReadFromAFile\ReadFromAFile.csproj", "{7AEC507D-34D7-403C-BD7C-57BE88F72917}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppendAFile", "AppendAFile\AppendAFile.csproj", "{476C1D8C-2BF2-4D7C-9A8D-DF0E93ED845C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadingCharactersFrmAFile", "ReadingCharactersFrmAFile\ReadingCharactersFrmAFile.csproj", "{747295EE-3B79-4877-94E4-89C544DB57E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WritingCharactersToAFile", "WritingCharactersToAFile\WritingCharactersToAFile.csproj", "{42AB2F08-50CA-4323-B310-85AF4969503D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList", "ToDoList\ToDoList.csproj", "{5762AA11-CECA-412E-85E6-AEB38678401A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +29,22 @@ Global
 		{7AEC507D-34D7-403C-BD7C-57BE88F72917}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7AEC507D-34D7-403C-BD7C-57BE88F72917}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7AEC507D-34D7-403C-BD7C-57BE88F72917}.Release|Any CPU.Build.0 = Release|Any CPU
+		{476C1D8C-2BF2-4D7C-9A8D-DF0E93ED845C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{476C1D8C-2BF2-4D7C-9A8D-DF0E93ED845C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{476C1D8C-2BF2-4D7C-9A8D-DF0E93ED845C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{476C1D8C-2BF2-4D7C-9A8D-DF0E93ED845C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{747295EE-3B79-4877-94E4-89C544DB57E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{747295EE-3B79-4877-94E4-89C544DB57E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{747295EE-3B79-4877-94E4-89C544DB57E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{747295EE-3B79-4877-94E4-89C544DB57E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42AB2F08-50CA-4323-B310-85AF4969503D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42AB2F08-50CA-4323-B310-85AF4969503D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42AB2F08-50CA-4323-B310-85AF4969503D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42AB2F08-50CA-4323-B310-85AF4969503D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5762AA11-CECA-412E-85E6-AEB38678401A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5762AA11-CECA-412E-85E6-AEB38678401A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5762AA11-CECA-412E-85E6-AEB38678401A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5762AA11-CECA-412E-85E6-AEB38678401A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
